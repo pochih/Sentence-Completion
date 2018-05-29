@@ -12,3 +12,6 @@ The details are described in __introduction.pdf__.
 ```bash
 ./train.sh
 ```
+
+## Author
+Po-Chih Huang / [@pochih](http://pochih.github.io/)

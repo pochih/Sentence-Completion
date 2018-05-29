@@ -7,7 +7,7 @@ The details are described in __introduction.pdf__.
 ```bash
 ./run.sh <testing data> <output file>
 ```
-
+ 
 ## train codes
 ```bash
 ./train.sh
